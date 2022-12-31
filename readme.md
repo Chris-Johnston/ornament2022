@@ -10,6 +10,10 @@ An ATTiny404 LED Xmas tree ornament. I made a bunch of these as gifts.
 
 ![Picture of the back of the ornament without parts oldered on.](img/board_back.jpg)
 
+Schematic, in case I don't feel like opening KiCad:
+
+![Screenshot of the schematic.](img/schematic.png)
+
 ## Resources used
 
 - [svg2mod] was used to generate the footprint of the board, and the front silkscreen layer
