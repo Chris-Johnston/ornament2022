@@ -1,0 +1,7 @@
+{
+    "configuration": "chip=404,clock=20internal,bodvoltage=1v8,bodmode=disabled,eesave=enable,millis=enabled,startuptime=8,wiremode=mors,printf=default,attach=allenabled",
+    "board": "megaTinyCore:megaavr:atxy4",
+    "programmer": "megaTinyCore:serialupdi",
+    "port": "/dev/ttyUSB0",
+    "sketch": "ornament.ino"
+}
